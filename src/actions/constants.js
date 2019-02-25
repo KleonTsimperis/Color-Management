@@ -1,0 +1,9 @@
+export const REPLACECOLOR = 'REPLACECOLOR';
+export const REMOVECOLOR  = 'REMOVECOLOR';
+export const CLEARERROR   = 'CLEARERROR';
+export const FETCHCOLOR   = 'FETCHCOLOR';
+export const FETCHDATA    = 'FETCHDATA';
+export const ISLOADING    = 'ISLOADING';
+export const EDITCOLOR    = 'EDITCOLOR';
+export const AMENDDATA    = 'AMENDDATA';
+export const HASERROR     = 'HASERROR';

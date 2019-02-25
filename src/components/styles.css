@@ -1,0 +1,9 @@
+.rectangle:hover{
+    transform: translateY(1vh);
+}
+
+.rectangle img {
+    border-radius: 20px;
+    border: 1px solid black;
+    box-shadow: 3px 3px black;
+}

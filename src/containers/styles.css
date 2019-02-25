@@ -1,0 +1,33 @@
+.colorTile {
+  display: flex;
+  flex-flow: row;
+  margin: 1rem;
+}
+
+.colorTileChild {
+  margin: 1rem;
+  width: 250px;
+}
+
+.buttonLayout {
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  margin: .5rem;
+}
+
+.row {
+  height: 80px;
+}
+
+.col {
+  text-align: center;
+}
+
+.search {
+  width: 50%;
+}
